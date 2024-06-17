@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Add me here
-![[discord](https://img.shields.io/badge/amrc.-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com)
+![discord](https://img.shields.io/badge/amrc.-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 ## Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=elmarco12&color=blue)
